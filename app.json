@@ -1,0 +1,26 @@
+{
+  "id": "bcb602ca-319e-4158-8eed-f27ddb0462c1",
+  "name": "ALProject2",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "application": "14.0.0.0",
+  "platform": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject2.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0",
+  "features": ["TranslationFile"]
+}
