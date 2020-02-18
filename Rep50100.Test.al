@@ -19,6 +19,7 @@ report 50100 Test
             }
             column(Integer; Integer)
             {
+                //RandomComment
             }
             column(SystemId; SystemId)
             {
