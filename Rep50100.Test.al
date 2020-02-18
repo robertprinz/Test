@@ -6,6 +6,7 @@ report 50100 Test
         {
             column(ABC; ABC)
             {
+                //Teststory3
             }
             column(Code; Code)
             {
