@@ -12,6 +12,7 @@ report 50100 Test
             }
             column(Dec; Dec)
             {
+                //Comment
             }
             column(Description; Description)
             {
